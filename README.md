@@ -1,0 +1,1 @@
+# SMT32-MCU-2-Digital-Input
